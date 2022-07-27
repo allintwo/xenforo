@@ -1,0 +1,12 @@
+{
+    "admin/sellix_pay_admin.html": {
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "e7d81149164dc4c9d7934fcd4cf9438c"
+    },
+    "public/Sellix_pay.html": {
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "ea00b223268dd05955e8e82a97d50285"
+    }
+}

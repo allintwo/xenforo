@@ -1,0 +1,11 @@
+{
+    "route_type": "public",
+    "route_prefix": "Sellix_pay",
+    "sub_name": "",
+    "format": "",
+    "build_class": "",
+    "build_method": "",
+    "controller": "Sellix\\pay:pay",
+    "context": "",
+    "action_prefix": ""
+}

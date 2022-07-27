@@ -1,0 +1,1 @@
+php cmd.php xf-addon:build-release Sellix/pay
